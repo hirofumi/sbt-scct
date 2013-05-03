@@ -1,3 +1,5 @@
+package reaktor.scct.sbt
+
 import java.util.Properties
 import sbt._
 import sbt.Keys._
